@@ -23,3 +23,6 @@ An ordinary Software Engineer from Seattle rambling about nothing
 
 ##Contact
 * [BasicInspiration@hotmail.com](mailto:BasicInspiration@hotmail.com)
+
+---------------------------------
+<sub>Created using [SimpleMarkdownWeb](https://github.com/rizalp1/SimpleMarkdownWeb/) entirely in Markdown</sub>

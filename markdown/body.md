@@ -16,7 +16,7 @@ An ordinary Software Engineer from Seattle rambling about nothing
 * Taylor Corporation (2011-2012)
 
 ##Online Presence
-* [Blog](http://pradeeprizal.com/)
+* [Blog](http://blog.pradeeprizal.com/)
 * [LinkedIn](https://www.linkedin.com/in/pradeeprizal/)
 * [GitHub](https://github.com/rizalp1/)
 * [Twitter](https://twitter.com/pkrizal/)
